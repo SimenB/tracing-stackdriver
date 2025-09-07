@@ -50,7 +50,7 @@ optional = true
 
 [dependencies.tracing-subscriber]
 features = ["json"]
-version = "0.3.18"
+version = "0.3.20"
 
 [dependencies.url]
 optional = true
